@@ -1,8 +1,8 @@
 Hi. 🤔
 -----
 ### **Github Stats**
-[![Dashboard](https://github-readme-stats.vercel.app/api?username=MiFeng-super&show_icons=true&theme=radical)](https://github.com/MiFeng-super)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiFeng-super&hide=html&layout=compact&langs_count=10&theme=radical)](https://github.com/MiFeng-super)
+[![Dashboard](https://github-readme-stats.vercel.app/api?username=MiFeng-super&show_icons=true&theme=default)](https://github.com/MiFeng-super)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiFeng-super&hide=html&layout=compact&langs_count=10&theme=default)](https://github.com/MiFeng-super)
 <!--
 **MiFeng-super/MiFeng-super** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
